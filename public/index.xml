@@ -34,7 +34,7 @@
       <link>//localhost:1313/guides/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/guides/</guid>
-      <description>&lt;p&gt;These are all the guides hosted on the site.&lt;/p&gt;&#xA;&lt;p&gt;Overpressurization Failsafe: &lt;a href=&#34;//localhost:1313/overpressure/&#34; title=&#34;Overpressurization Failsafe&#34;&gt;Overpressuization Failsafe&lt;/a&gt;&#xA;Catalyst Supply Issues: &lt;a href=&#34;//localhost:1313/catsupply/&#34;&gt;Catalyst Supply Issues&lt;/a&gt;&#xA;Durables Gun Hose Blockage: &lt;a href=&#34;//localhost:1313/durflat/&#34;&gt;Gun Hose Blockage&lt;/a&gt;&#xA;Minor Debris in Catalyst Supply: &lt;a href=&#34;//localhost:1313/debris/&#34;&gt;Catalyst Intermitent Misses&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;These are all the guides hosted on the site.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Overpressurization Failsafe: &lt;a href=&#34;//localhost:1313/overpressure/&#34; title=&#34;Overpressurization Failsafe&#34;&gt;Overpressuization Failsafe&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Catalyst Supply Issues: &lt;a href=&#34;//localhost:1313/catsupply/&#34;&gt;Catalyst Supply Issues&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Durables Gun Hose Blockage: &lt;a href=&#34;//localhost:1313/durflat/&#34;&gt;Gun Hose Blockage&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Minor Debris in Catalyst Supply: &lt;a href=&#34;//localhost:1313/debris/&#34;&gt;Catalyst Intermitent Misses&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Occasional Debris</title>
