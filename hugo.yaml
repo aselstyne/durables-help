@@ -10,7 +10,7 @@ languages:
     languageName: English
     languageCode: en-US
     contentDir: content
-    title: TBL Durables Help Site
+    title: TBL Durables Help
     params:
       description: Articles and videos to help you get the most out of your TBL Durables products.
 
@@ -36,8 +36,8 @@ params:
     dark: '#121212'
 
   years:
-    start: ''
-    present: 2023
+    start: 2019
+    present: 2025
 
   social:
     github: ''
@@ -83,8 +83,8 @@ menu:
       pre: "<i class='icon icon-home'></i>"
       weight: 1
 
-    - url: /docs
-      name: Documentation
-      identifier: docs
+    - url: /guides
+      name: Guides
+      identifier: guides
       pre: "<i class='icon icon-book'></i>"
       weight: 2
