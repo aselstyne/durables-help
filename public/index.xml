@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TBL Durables Help Site</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on TBL Durables Help Site</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Low Catalyst Warning</title>
+      <link>//localhost:1313/lowcatalyst/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/lowcatalyst/</guid>
+      <description>&lt;p&gt;This is the page for low catalyst!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
