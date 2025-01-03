@@ -1,7 +1,6 @@
 ---
 title: Catalyst Supply Issues
 ---
-
 If you're experiencing this error, your catalyst pump is currently unable to consistently build pressure while you're spraying. This can be caused by a number of faults in the catalyst supply system. The following sections will walk you through solutions to a series of the faults that could cause this issue, mostly in the catalyst pump.
 
 ## Step 1: Catalyst Tank Level
@@ -13,3 +12,5 @@ Dump all pressures. The error message will stay on the screen, but you can repre
 
 ## Step 2: Check For Catalyst Supply
 Next, you should make sure 
+
+{{< youtube i0gviuG0JF8 >}}
