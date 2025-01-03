@@ -1,5 +1,7 @@
 theme: docura
 
+baseURL: https://help.tbldurables.com/
+
 enableGitInfo: true
 
 defaultContentLanguage: en
@@ -28,8 +30,8 @@ markup:
 params:
 
   author:
-    name: Alex Aselstyne Jr.
-    url: https://help.tbldurables.com/
+    name: TBL Durables
+    url: https://aselstyne.com/
 
   themeColors:
     light: '#ffffff'
@@ -60,7 +62,6 @@ params:
       apiKey: ''
 
   home:
-
     repository: 'your/repo'
 
 #    repositories:

@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "home.css",
-	"sourceRoot": "/Users/styne/Documents/Software-Projects/durables-help",
+	"sourceRoot": "C:/Users/Alexa/Documents/Software Projects/durables-help",
 	"sources": [
 		"themes/docura/assets/scss/home.scss",
 		"themes/docura/assets/scss/reset.scss",
