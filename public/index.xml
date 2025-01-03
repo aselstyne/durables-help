@@ -6,14 +6,14 @@
     <description>Recent content on TBL Durables Help</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 01 Jan 2025 17:20:45 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2025 15:05:05 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Overpressurization Failsafe</title>
       <link>http://localhost:1313/pressure/</link>
       <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/pressure/</guid>
-      <description>&lt;p&gt;The catalyst pump in the TBL Durables line striper is only rated for 2000psi, and when this operating pressure is significantly exceeded pump damage is likely to occur. As a result, the computer will instantly stop the main pump if the catalyst pressure exceeds 2300psi at any time.&lt;/p&gt;&#xA;&lt;p&gt;A simple (but frequent!) reason for a catalyst overpressurization is simply setting your main pressure dial too high. Always aim for a catalyst operating pressure around &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;span-stylecolorred-purge-your-gun-now-before-reading-span&#34;&gt;&lt;span style=&#34;color:red&#34;&gt; PURGE YOUR GUN NOW BEFORE READING &lt;/span&gt;&lt;/h1&gt;&#xA;&lt;p&gt;The catalyst pump in the TBL Durables line striper is only rated for 2000psi, and when this operating pressure is significantly exceeded pump damage is likely to occur. As a result, the computer will instantly stop the main pump if the catalyst pressure exceeds 2300psi at any time. The engine will continue running while the failsafe is engaged, however the hydraulics will be turned off stopping the pump.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Catalyst Supply Issues</title>

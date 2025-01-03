@@ -1,0 +1,20 @@
+{{ define "main" }}
+<div id="site-main-content-wrapper">
+  {{ $dataLocale := index .Site.Data .Site.Language.Lang }}
+  {{ if isset $dataLocale .Section }}
+    {{ partial "sidebar" . }}
+  {{ end }}
+  <main>
+    <article id="article">
+      {{ partial "article-nav" . }}
+      {{ partial "article-header" . }}
+      <div id="article-content">
+        {{ $content := .Content }}
+        {{ $content | safeHTML }}
+      </div>
+      {{ partial "article-footer" . }}
+    </article>
+    {{ partial "toc" . }}
+  </main>
+</div>
+{{ end }}
