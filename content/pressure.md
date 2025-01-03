@@ -7,7 +7,9 @@ date: 2024-12-22
 The catalyst pump in the TBL Durables line striper is only rated for 2000psi, and when this operating pressure is significantly exceeded pump damage is likely to occur. As a result, the computer will instantly stop the main pump if the catalyst pressure exceeds 2300psi at any time. The engine will continue running while the failsafe is engaged, however the hydraulics will be turned off stopping the pump.
 
 ## Step 1: Machine Startup Pressures
-A simple cause of a catalyst overpressurization is letting your catalyst pressure get too high before closing the durables bypass value when you're starting up to spray. Aim to close the durables bypass value when the catalyst pressure is around 500psi. For a refresher on the process
+A simple cause of a catalyst overpressurization is letting your catalyst pressure get too high before closing the durables bypass value when you're starting up to spray. Aim to close the durables bypass value when the catalyst pressure is around 500psi. For a refresher on the process, refer to the following video:
+
+{{< youtube jQwJEM8i37Y >}}
 
 ## Step 2: Catalyst Blockage
 Alternatively, if you've set your catalyst pressure properly at startup but the overpressurization failsafe is still engaging, you must check for a blockage at the catalyst side of your gun. Below are two videos walking you through the process. The first is for an "active" gun which is connected to the machine and full of material. The second is of a detached gun in the shop. Watch both.
