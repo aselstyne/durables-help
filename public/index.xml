@@ -6,7 +6,7 @@
     <description>Recent content on TBL Durables Help</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 03 Jan 2025 15:05:05 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2025 17:30:50 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Overpressurization Failsafe</title>
@@ -20,28 +20,28 @@
       <link>http://localhost:1313/catsupply/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/catsupply/</guid>
-      <description>&lt;p&gt;If you&amp;rsquo;re experiencing this error, your catalyst pump is currently unable to consistently build pressure while you&amp;rsquo;re spraying. This can be caused by a number of faults in the catalyst supply system. The following sections will walk you through solutions to a series of the faults that could cause this issue, mostly in the catalyst pump.&lt;/p&gt;&#xA;&lt;h2 id=&#34;step-1-catalyst-tank-level&#34;&gt;Step 1: Catalyst Tank Level&lt;/h2&gt;&#xA;&lt;p&gt;The simplest and most common cause of this fault is simply that your catalyst tank has run dry.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;span-stylecolorred-purge-your-gun-now-before-reading-span&#34;&gt;&lt;span style=&#34;color:red&#34;&gt; PURGE YOUR GUN NOW BEFORE READING &lt;/span&gt;&lt;/h1&gt;&#xA;&lt;h4 id=&#34;the-error-message-will-stay-on-the-screen-until-you-repressurize-the-pump-will-begin-pumping-again-however-you-shouldnt-build-pressure-until-youre-ready-to-spray&#34;&gt;The error message will stay on the screen until you repressurize. The pump will begin pumping again, however you shouldn&amp;rsquo;t build pressure until you&amp;rsquo;re ready to spray.&lt;/h4&gt;&#xA;&lt;p&gt;Your catalyst pump is currently unable to consistently build pressure while you&amp;rsquo;re spraying. This can be caused by a number of faults in the catalyst supply system. The following sections will walk you through all potential solutions.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Durables Gun Hose Blockage</title>
       <link>http://localhost:1313/durflat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/durflat/</guid>
-      <description>&lt;p&gt;This is when there is a blockage in the gun hose. Check valve type problem, or catalyst needle stuck open.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;span-stylecolorred-purge-your-gun-now-before-reading-span&#34;&gt;&lt;span style=&#34;color:red&#34;&gt; PURGE YOUR GUN NOW BEFORE READING &lt;/span&gt;&lt;/h1&gt;&#xA;&lt;p&gt;The computer has detected that your durables can&amp;rsquo;t be pumped due to a blockage in the hose. Typically, this is the result of a bad check valve on the durables side. The following video will walk you through replacement of the check valve.&lt;/p&gt;&#xA;&lt;iframe src=&#34;https://drive.google.com/file/d/1d0CuoMNU05bniRhDKYtEEPZPrUo3-raO/preview&#34; width=&#34;640&#34; height=&#34;480&#34; allow=&#34;autoplay&#34;&gt;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>Machine Message Directory</title>
       <link>http://localhost:1313/guides/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/guides/</guid>
-      <description>&lt;p&gt;These are all the guides hosted on the site.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Overpressurization Failsafe: &lt;a href=&#34;http://localhost:1313/pressure/&#34; title=&#34;Overpressurization Failsafe&#34;&gt;Overpressuization Failsafe&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Catalyst Supply Issues: &lt;a href=&#34;http://localhost:1313/catsupply/&#34;&gt;Catalyst Supply Issues&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Durables Gun Hose Blockage: &lt;a href=&#34;http://localhost:1313/durflat/&#34;&gt;Gun Hose Blockage&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Minor Debris in Catalyst Supply: &lt;a href=&#34;http://localhost:1313/debris/&#34;&gt;Catalyst Intermitent Misses&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;p&gt;These are all the guides hosted on the site.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/pressure/&#34; title=&#34;Overpressurization Failsafe&#34;&gt;Overpressuization Failsafe&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/catsupply/&#34;&gt;Catalyst Supply Issues (No catalyst, blown o-rings, etc)&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/durflat/&#34;&gt;Durables Gun Hose Blockage&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/debris/&#34;&gt;Catalyst Intermitent Misses (Debris in catalyst)&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>Occasional Debris</title>
+      <title>Occasional Catalyst Debris</title>
       <link>http://localhost:1313/debris/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/debris/</guid>
-      <description>&lt;p&gt;You have contaminated catalyst, and you&amp;rsquo;re getting misses but not very often (once every few minutes).&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;span-stylecolorred-purge-your-gun-now-before-reading-span&#34;&gt;&lt;span style=&#34;color:red&#34;&gt; PURGE YOUR GUN NOW BEFORE READING &lt;/span&gt;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;explanation&#34;&gt;Explanation&lt;/h2&gt;&#xA;&lt;p&gt;The computer has detected several random drops in catalyst pressure over the last few minutes. Although you can continue working, this will cause &amp;ldquo;misses&amp;rdquo; in your line. These are spots that will never cure because catalyst didn&amp;rsquo;t properly get mixed with the durables.&lt;/p&gt;&#xA;&lt;p&gt;This is most often due to catalyst affected by one of the following issues:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Thick/chunky from not being sufficiently mixed&lt;/li&gt;&#xA;&lt;li&gt;Full of crystals from being overheated&lt;/li&gt;&#xA;&lt;li&gt;Had some kind of debris (like glass bead) spilled into it&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;To solve any of the three catalyst problems, you follow these steps&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -3,6 +3,8 @@ title: Catalyst Supply Issues
 ---
 # <span style="color:red"> PURGE YOUR GUN NOW BEFORE READING </span>
 
+#### The error message will stay on the screen until you repressurize. The pump will begin pumping again, however you shouldn't build pressure until you're ready to spray.
+
 Your catalyst pump is currently unable to consistently build pressure while you're spraying. This can be caused by a number of faults in the catalyst supply system. The following sections will walk you through all potential solutions.
 
 ## Step 1: Catalyst Tank Level

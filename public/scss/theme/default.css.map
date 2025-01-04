@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "default.css",
-	"sourceRoot": "C:/Users/Alexa/Documents/Software Projects/durables-help",
+	"sourceRoot": "/Users/styne/Documents/Software-Projects/durables-help",
 	"sources": [
 		"themes/docura/assets/scss/theme/default.scss",
 		"themes/docura/assets/scss/font/inter.scss",
